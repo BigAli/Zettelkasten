@@ -1,3 +1,5 @@
 # Luhman's Methods
 
-Something here.
+Keep Zet's to a maximum of 25 lines and title each one by GMT time. Look up plug in that Rob uses.
+Research how to link different zet's to one another. 
+Learn more about adding all zet's to a repository. 
